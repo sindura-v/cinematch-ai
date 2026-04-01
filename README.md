@@ -1,4 +1,4 @@
-# CineMatch AI — Personalised Movie Recommender
+# CineMatch AI : Personalised Movie Recommender
 
 An AI-powered movie recommendation app built with RAG 
 (Retrieval Augmented Generation).
@@ -23,9 +23,9 @@ An AI-powered movie recommendation app built with RAG
 ## Tech stack
 - Python 3.13
 - OpenAI API (embeddings + GPT-4o-mini)
-- ChromaDB — vector database
-- TMDB API — movie database
-- Streamlit — web interface
+- ChromaDB : vector database
+- TMDB API : movie database
+- Streamlit : web interface
 - pandas, requests, python-dotenv
 
 ## Setup
